@@ -33,9 +33,9 @@ function About({}: Props) {
         className='-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-96 xl:w-[500px] xl:h-[600px]'
       />
 
-      <div className='space-y-10 px-0 md:px-10'>
+      <div className='space-y-10 px-0 md:px-10 justify-center items-center'>
         <h4 className='text-4xl font-semibold'>Here is a little background</h4>
-        <p className='text-md'>
+        <p className='text-md '>
           Hi Everyone, my name is Peter Sekesan and I am from New York. I am a
           software engineer currently working as a Full Stack Developer for
           Newsday Media Group. In May of 2020, my career in Events Marketing and
